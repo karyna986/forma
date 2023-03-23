@@ -1,0 +1,13 @@
+/* *{
+    margin: 0 auto;
+} */
+form {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+form  div{
+    width: 100px;
+   
+}
